@@ -322,6 +322,8 @@ html{
     display: inline-block;
     margin-top: 15px;
     border-style: none;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 .btn:hover {
