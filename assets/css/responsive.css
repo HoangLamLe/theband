@@ -1,8 +1,8 @@
-@media (min-width: 1024px) {
+@media (min-width: 64em) {
 
 }
 /* Tablet & Mobile  */
-@media (max-width: 1023px) {
+@media (max-width: 63.9375em) {
     .btn {
         padding: 15px 16px;
     }
@@ -36,11 +36,11 @@
         display: inline-block;
     }
 }
-@media (max-width: 1023px) and (min-width: 740px) {
+@media (max-width: 63.9375em) and (min-width: 46.25em) {
     
 }
 
-@media (max-width: 739px) {
+@media (max-width: 46.1875em) {
     .s-full-width, 
     .s-col-full {
         width: 100% !important;
